@@ -1,0 +1,9 @@
+com\springcloud\microservices\service\CurrencyExchangeService.class
+com\springcloud\microservices\exception\ResourceNotFoundException.class
+com\springcloud\microservices\controller\CurrencyExchangeController.class
+com\springcloud\microservices\exception\MyExceptionHandler.class
+com\springcloud\microservices\controller\CircuitBreakerController.class
+com\springcloud\microservices\model\CurrencyExchange.class
+com\springcloud\microservices\repository\CurrencyExchangeRepository.class
+com\springcloud\microservices\CurrencyExchangeServiceApplication.class
+com\springcloud\microservices\exception\ErrorDetails.class
